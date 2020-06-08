@@ -1,1 +1,1 @@
-var playlist  = { Bob Seger: "Night Moves" };
+var playlist  = { BobSeger: "Night Moves" };
